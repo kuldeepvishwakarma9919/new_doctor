@@ -18,7 +18,7 @@
 }
 
 body {
-    font-family: cursive !important;
+    /* font-family: cursive !important; */
     /* font-family: Playfair Display, serif; */
     /* background-color: red; */
 }
@@ -119,11 +119,13 @@ body {
 .navbar .navbar-nav .nav-link:hover,
 .navbar .navbar-nav .nav-link.active {
     /* color: var(--primary); */
-    color: #e13600;
+    /* color: #e13600; */
+    color: #00d2eb;
 }
 
 .nv-btn {
-    background-color: rgb(232 96 76);
+    /* background-color: rgb(232 96 76); */
+    background-color: #00d2eb;
     color: white;
 }
 
@@ -178,7 +180,8 @@ body {
 /*** Header ***/
 
 .hero-section {
-    background-color: rgb(232 96 76);
+    /* background-color: rgb(232 96 76); */
+    background-color: #00d2eb;
     font-family: Playfair Display, serif;
 
 
